@@ -1,0 +1,17 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto JavaScript  con NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "saludar":"node index.js"
+  },
+  "keywords": [
+    "holamundo",
+    "first",
+    "proyect"
+  ],
+  "author": "Andres Milagros",
+  "license": "ISC"
+}
